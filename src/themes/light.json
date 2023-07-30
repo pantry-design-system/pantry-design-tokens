@@ -1,0 +1,14 @@
+{
+  "uds": {
+    "theme": {
+      "color": {
+        "background": {
+          "primary": {
+            "value": "{uds.global.red.10}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
